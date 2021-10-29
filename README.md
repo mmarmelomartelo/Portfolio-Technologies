@@ -1,4 +1,4 @@
-us![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+pus![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
 Welcome Marcelo  Montenegro,
 
